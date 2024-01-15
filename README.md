@@ -4,11 +4,22 @@
 <!--There is the image than is in side right-->
 <img boder="2px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" height="300px" align="right" alt="image">
 
-<!--About me-->
-<div align="left">
-  <h3> ⭐ &nbsp;About</h3>
+
+  **⭐ &nbsp;About**
+  <div align="left">
   <p>&nbsp;Passionate full stack developer, skilled in creating dynamic applications and efficient API services. Committed to delivering excellence through a combination of technical expertise and a creative approach. Let's turn your vision into reality!</p>
 </div>
+
+
+***
+**⚙️ &nbsp;GitHub Analytics**
+<table style="width:100%">
+  <tr>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=blow-mainter&show_icons=true&theme=dark&locale=en&hide_border=true" alt="imkashyap" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blow-mainter&theme=dark&hide_border=true&layout=compact"></td>
+  </tr>
+</table>
+
 
 
 <!--Where me find-->
@@ -16,7 +27,7 @@
   <h3> :earth_americas: &nbsp;Contact</h3> 
   
   
-  <a href="https://www.linkedin.com/in/ashik-k-i-367b76271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/ashik-k-i-367b76271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0003FF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:blow.mainter@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/blow_mainter?igsh=Z2kyNng1bHNycDcy" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   

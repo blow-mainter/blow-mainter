@@ -9,7 +9,7 @@
   ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 -->
 <!--There is the image than is in side right-->
-<img boder="2px" src="https://github.com/blow-mainter/blow-mainter/blob/5441e0fcee329b807f3190a540aa241029e1ac7f/meeh.png" min-width="300px" max-width="300px" width="300px" height="300px" align="right" alt="image">
+<img boder="2px" src="https://github.com/blow-mainter/blow-mainter/blob/5441e0fcee329b807f3190a540aa241029e1ac7f/meeh.png" min-width="300px" max-width="300px" width="300px" height="autopx" align="right" alt="image">
 
 
   **⭐ &nbsp;About**

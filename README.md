@@ -39,3 +39,11 @@
   
 </div>
 <br>
+<br>
+
+<a href="https://www.blow-mainter.web.app" target="_blank"><img src="https://img.shields.io/badge/Website-0003FF?style=for-the-badge&logo=web&logoColor=white" target="_blank"></a> 
+<br>
+<br>
+
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-yellow?style=for-the-badge)](https://razorpay.me/@blowmainter)

@@ -41,7 +41,7 @@
 <br>
 <br>
 
-<a href="https://www.blow-mainter.web.app" target="_blank"><img src="https://img.shields.io/badge/Website-0003FF?style=for-the-badge&logo=web&logoColor=white" target="_blank"></a> 
+<a href="https://blow-mainter.web.app" target="_blank"><img src="https://img.shields.io/badge/Website-0003FF?style=for-the-badge&logo=web&logoColor=white" target="_blank"></a> 
 <br>
 <br>
 

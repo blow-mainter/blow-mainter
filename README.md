@@ -1,6 +1,13 @@
+<p align="center"> <h1 align="center"> Hi, I am ASHIK<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /></h1> </p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=blow-mainter&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
+         
+<!--          
+  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+-->
 <!--There is the image than is in side right-->
 <img boder="2px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" height="300px" align="right" alt="image">
 
@@ -23,10 +30,9 @@
 
 
 <!--Where me find-->
-<div align="leftt"> 
-  <h3> :earth_americas: &nbsp;Contact</h3> 
+   **🌍 &nbsp;Find Me**
   
-  
+  <div align="leftt"> 
   <a href="https://www.linkedin.com/in/ashik-k-i-367b76271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0003FF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:blow.mainter@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/blow_mainter?igsh=Z2kyNng1bHNycDcy" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
